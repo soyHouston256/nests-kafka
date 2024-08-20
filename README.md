@@ -95,3 +95,5 @@ La documentación de la API está disponible en `http://localhost:3000/api` cuan
 ## Contribuir
 
 Las contribuciones son bienvenidas. Por favor.
+
+Este post es un review de un articulo de [medium](https://devjaime.medium.com/que-es-kafka-y-como-implementarlo-en-nestjs-657e60468356)
